@@ -1,2 +1,0 @@
-﻿print"hellow word"、
-int add(int a,int b)；
