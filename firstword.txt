@@ -1,2 +1,2 @@
-print"hellow word"、
-void add(int a,int b)；
+﻿print"hellow word"、
+int add(int a,int b)；
