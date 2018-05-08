@@ -1,0 +1,9 @@
+auto generated, do not change !!!! 
+
+HOST : goods
+
+商品列表页面
+/goodsList
+goods:com.jiaxufei.componentservice.goods.bean.Goods
+goodsNum:INT
+

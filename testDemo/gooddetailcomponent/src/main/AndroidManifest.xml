@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  package="com.jiaxufei.gooddetailcomponent">
+  <application
+    android:allowBackup="true"
+    android:label="@string/good_detail_app_name"
+    android:supportsRtl="true"
+    tools:replace="android:label">
+    <activity android:name=".GoodDetailActivity"/>
+  </application>
+</manifest>
+

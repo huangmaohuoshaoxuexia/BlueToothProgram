@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="btooth_app_name">蓝牙模块</string>
+  <string name="btooth_name">蓝牙</string>
+  <string name="btooth_connenct_word">选择一个设备连接</string>
+  <string name="btooth_state">状态</string>
+</resources>
